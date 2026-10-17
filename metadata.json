@@ -1,0 +1,6 @@
+{
+  "name": "BEFORE YOU CLICK: PARALLEL YOU",
+  "description": "An AI-powered decision simulator exploring possible consequences, recipient interpretations, and branching futures of a message before pressing send.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
